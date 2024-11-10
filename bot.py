@@ -9,7 +9,7 @@ IKB = t.InlineKeyboardButton
 IKM = t.InlineKeyboardMarkup
 
 
-TOKEN = '1611542237:AAGPMlkeNxp3geL0urxsSsBncnOBROjctsg' # só pra testar
+TOKEN = '7827614608:AAFEYYurLUq6voswAd8XLuqICafXM_C4stw' # só pra testar
 
 
 users_file = open('users.json')
